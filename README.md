@@ -26,7 +26,7 @@ Create a .env file
 ```bash
 touch .env
 ```
-Copy paste the script inside the .env file and Add the mongoDB srv string
+Copy paste the script inside the .env file and Add the mongoDB srv string.
 
 ```bash
 // .env
