@@ -12,10 +12,10 @@ related to property management.
 
 ## Installation
 
-Clone the repository from GitHub repo <a href="https://github.com/codewithfaizan/PerfAi-Assignment"> PerfAi-Assignment </a>. <b> Note : This Application requires a .env file containing mongodb srv string follow below </b>
+Clone the repository from GitHub repo <a href="https://github.com/Ayesha123-anjum/waqf-property-task-tracker.git"> PerfAi-Assignment </a>. <b> Note : This Application requires a .env file containing mongodb srv string follow below </b>
 
 ```bash
-git clone git@github.com:codewithfaizan/PerfAi-Assignment.git
+git clone git@github.com:https://github.com/Ayesha123-anjum/waqf-property-task-tracker.git
 ```
 Install the dependencies
 ```bash
